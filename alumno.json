@@ -1,0 +1,16 @@
+{
+    "nombre":"Andre",
+    "edad":22,
+    "casado":true,
+    "altura":1.6,
+    "direccion":{
+        "calle":"Av Zamora",
+        "pais":"España",
+        "numero":90,
+        "cp":36203
+    },
+    "notafinal": null,
+    "calificaciones":[6,8],
+    "caracteristicas": ["risueno","inteligente",10,true]
+
+}
